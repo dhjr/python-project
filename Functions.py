@@ -5,7 +5,8 @@ billingData = []
 grandTotal = 0
 totalQty = 0
 ModeOfPay = '' 
-
+randomVar = 0
+#learning git
 
 def billNo():                                                   # function to generate bill number
     from random import randrange
